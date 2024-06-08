@@ -1,0 +1,20 @@
+C# => C sharp
+    -  Object oriented programing Language
+    - root of c family close to c++ and Java
+    -   first Version is 2002 and current version is C# 12 released on november 2023
+=> Use of C#
+    - mobile application
+    - desktop application
+    - Web application
+    - Web Service
+    - Web Site
+    - Vr 
+    - Game
+    - Database application
+=> Why use ?
+    - Easy to learn
+    - support hug of community
+    - Most popular programing Language
+    - C# is object Oriented Proggraming language gives clear structure , code reused, lowering development costs
+    - C# is close c, c++, Java so programer is to switch C# or vice versa
+    
